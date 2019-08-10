@@ -1,6 +1,7 @@
-
-venv/
-
-\.idea/
-
+cookies.json
 __pycache__/
+\.idea/
+venv/
+*_credentials.json
+!template_credentials.json
+.venv
